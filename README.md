@@ -9,9 +9,7 @@
  
 Projet de drone quadrirotor autonome capable de naviguer sans GPS en environnement intérieur, avec cartographie 3D en temps réel via SLAM visuel.
  
-**Auteurs :** Aziz Zouari & Tarek Abdrabo  
-**Module :** ROBO4 — Projet Robotique  
-**Année :** 2025 / 2026
+**Auteurs :** Aziz Zouari & Tarek Abdrabo
  
 ---
  
