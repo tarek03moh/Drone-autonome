@@ -10,8 +10,8 @@ Ce dossier contient le modèle CAO du support utilisé pour maintenir la caméra
 ## 🖼️ Aperçu
 
 <p align="center">
-  <img src="Images/Front.png" width="250"/>
-  <img src="Images/Back.png" width="250"/>
+  <img src="Images/Front.png" width="280"/>
+  <img src="Images/Back.png" width="265"/>
   <img src="Images/Side.png" width="250"/>
 </p>
 
