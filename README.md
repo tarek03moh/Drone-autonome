@@ -52,17 +52,6 @@ RealSense D435 → Jetson Nano (ROS 2 + RTAB-Map) → Pixhawk (PX4) → ESC + Mo
  
 ---
  
-## État d'avancement
- 
-| Étape | Statut |
-|---|---|
-| Assemblage mécanique et électronique | ✅ Terminé |
-| Configuration Pixhawk + firmware PX4 | ✅ Terminé |
-| Bridge uXRCE-DDS PX4 ↔ ROS 2 | ✅ Terminé |
-| Acquisition RealSense D435 sous ROS 2 | ✅ Terminé |
-| SLAM visuel RTAB-Map (tests statiques) | ✅ Validé |
-| Test de vol manuel | 🔄 En cours |
-| Navigation autonome en boucle fermée | 🔄 En cours |
  
 ## Références
  
