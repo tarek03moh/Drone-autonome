@@ -9,11 +9,11 @@ Ce dossier contient le modèle CAO du support utilisé pour maintenir la caméra
 
 ## 🖼️ Aperçu
 
-![Vue du support](images/Front.png)
+![Vue du support](Images/Front.png)
 
-![Vue assemblée](images/Back.png)
+![Vue assemblée](Images/Back.png)
 
-![Vue assemblée](images/Side.png)
+![Vue assemblée](Images/Side.png)
 
 ## ⚙️ Remarques
 
