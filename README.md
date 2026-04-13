@@ -36,7 +36,7 @@ RealSense D435 → Jetson Nano (ROS 2 + RTAB-Map) → Pixhawk (PX4) → ESC + Mo
 | Intel RealSense D435 | Caméra RGB-D stéréo, 640×480 px, interface USB 3.0 |
 | Jetson Nano (NVIDIA) | Calculateur embarqué, exécute ROS 2 + RTAB-Map |
 | Batterie LiPo 3S (12,6 V) | Alimentation principale |
-| Radio commande (Spektrum) | Contrôle manuel via protocole SBUS |
+| Radio commande  | Contrôle manuel via protocole SBUS |
  
 ---
  
